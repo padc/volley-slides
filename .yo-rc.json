@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Volley",
+    "packageVersion": "0.0.0",
+    "revealTheme": "sky",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "padc",
+    "githubRepository": "volley-slides"
+  }
+}
